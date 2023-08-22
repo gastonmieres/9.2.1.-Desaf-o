@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue;
+}
+.container {
+    padding: 0;
+    margin: 0 auto;
+    display:block;
+    justify-content:center;
+    text-align: center;
+    padding: 140px;
+}
+
+h1{
+    color:darkorchid;
+    font-size: 3em;
+}
+
+input {
+    width: 300px;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-radius: 5px;
+    height: 20px;
+    background-color: antiquewhite;
+}
+
+
+#buttonText{
+    background-color: darkorchid;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 100px;
+    height: 27px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.2em;
+    color: darkorchid;
+}
+
+p {
+    font-size: 1.5em;
+    color: darkmagenta;
+}
+
+
